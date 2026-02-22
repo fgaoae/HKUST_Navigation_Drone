@@ -1,3 +1,5 @@
+## Phase 1: build a drone with the basic function of identifying and approaching target object
+
 **Week 1-3**
 - Set up environment
 - Learn to use ROS 2
@@ -30,3 +32,9 @@
 **Week 17**
 - Record first perspective video, including detection and crucial data
 - Finish first phase report
+
+## Phase 2: train drone to locate itself on campus with combined information provided by visual module and supplemented sensors
+
+## Phase 3: train the drone to move from one node to another and learn to avoid obstacles and go through different kinds of entrances
+
+## Phase 4: run whole route and build up interaction system with users
