@@ -1,5 +1,11 @@
 # Project Progress Log
 
+## Week 2 (In process)
+- ✅ Complete USEL application form
+
+
+
+
 ## Week 1 (Feb 12 - Feb 19)
 - ✅ Set up ROS2 environment on MacOS using docker
 - ✅ Used turtlesim to do the first task 
