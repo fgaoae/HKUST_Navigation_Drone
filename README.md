@@ -10,6 +10,7 @@ A self-learning project to build a autonomous navigation drone for HKUST campus 
 📈 [Weekly Progress Log](docs/PROGRESS.md)
 
 ---
-*This is an ongoing project with planned 4 phases. Phase 2 (Summer 2026) will extend to full campus location identification and use more techniques rather than vision alone to locate more accurately.*
+
+*This is an ongoing project with planned 4 phases.*
 
 *See more details on* 📁 [General Plan](docs/PLAN_4Phases.md)
