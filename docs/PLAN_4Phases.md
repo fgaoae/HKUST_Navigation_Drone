@@ -1,4 +1,4 @@
-## Phase 1: build a drone with the basic function of identifying and approaching target object
+## Phase 1: learn basic control and visual techniques, build up drone
 
 **Week 1-3**
 - Set up environment
@@ -7,31 +7,23 @@
 
 **Week 4-5**
 - Learn to use OpenCV
+- Implement OpenCV in ROS 2
 
 **Week 6-7**
 - Set up environment for simulation
 - Try the first simulation
 
 **Week 8-9**
-- Apply visual detection in simulation
+- Visual servo simulation
 
 **Week 10-11**
-- Set up and use YOLOv8 in simulation
+- Build up the hardware of drone
+- Launch the first flight
 
-**Week 12-13**
-- Build up hardware
+**Week 12**
+- Review
+- Prepare for report
 
-**Week 14-15**
-- Uplaod software to hardware
-- Launch first flight
-
-**Week 16**
-- Security control
-- Demo
-
-**Week 17**
-- Record first perspective video, including detection and crucial data
-- Finish first phase report
 
 ## Phase 2: train drone to locate itself on campus with combined information provided by visual module and supplemented sensors
 
