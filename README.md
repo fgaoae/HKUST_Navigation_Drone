@@ -7,9 +7,11 @@ This repository contains the **first-phase prototype** - a minimal system that d
 
 **Started**: Feb 12, 2026
 
-📁 [General Plan](docs/PLAN_First_Phase.md)
+📁 [General Plan](docs/PLAN_4Phases.md)
 
 📈 [Weekly Progress Log](docs/PROGRESS.md)
 
 ---
-*This is an ongoing project. Phase 2 (Summer 2026) will extend to full campus location identification and use more techniques rather than vision alone to locate more accurately.*
+*This is an ongoing project with planned 4 phases. Phase 2 (Summer 2026) will extend to full campus location identification and use more techniques rather than vision alone to locate more accurately.*
+
+*See more details on* 📁 [General Plan](docs/PLAN_4Phases.md)
