@@ -3,8 +3,6 @@
 
 A self-learning project to build a autonomous navigation drone for HKUST campus both inside and outside.
 
-This repository contains the **first-phase prototype** - a minimal system that demonstrates landmark detection and autonomous flight in simulation, with initial hardware development.
-
 **Started**: Feb 12, 2026
 
 📁 [General Plan](docs/PLAN_4Phases.md)
