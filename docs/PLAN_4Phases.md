@@ -27,6 +27,13 @@
 
 ## Phase 2: train drone to locate itself on campus with combined information provided by visual module and supplemented sensors
 
+*Plan to use VINS mainly and use YOLO to double check*
+
 ## Phase 3: train the drone to move from one node to another and learn to avoid obstacles and go through different kinds of entrances
 
+*Build up campus map*
+
+*Find out how to identify if a door is closed or opened*
+
 ## Phase 4: run whole route and build up interaction system with users
+
