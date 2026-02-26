@@ -1,9 +1,13 @@
 # Project Progress Log
 
-## Week 2 (In process)
-- ✅ Complete USEL application form
+## Week 2 (Feb 19 - Feb 26)
+- ✅ Complete USEL application form draft
+- ✅ Learned basic param operation
+- ✅ Learned basic action operation
+- ✅ Learned to use rqt_console to examine logs
+- ✅ Learned to record data files
 
-
+- ❌ Stuck at USEL application
 
 
 ## Week 1 (Feb 12 - Feb 19)
