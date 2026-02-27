@@ -9,6 +9,9 @@
 
 - ❌ Stuck at USEL application
 
+**Media Record:**
+- [Action operation](https://youtu.be/3CUsSUMMa_I)
+- [Param operation](https://youtu.be/7IFchUudm2c)
 
 ## Week 1 (Feb 12 - Feb 19)
 - ✅ Set up ROS2 environment on MacOS using docker
