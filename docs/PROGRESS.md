@@ -1,5 +1,12 @@
 # Project Progress Log
 
+## Week 3 (Feb 26 - Mar 5)
+
+- ✅ Use colcon to build package
+- ✅ Creating a workspace
+- ✅ Creating a package
+- ✅ Writing a simple publisher and subscriber
+
 ## Week 2 (Feb 19 - Feb 26)
 - ✅ Complete USEL application form draft
 - ✅ Learned basic param operation
