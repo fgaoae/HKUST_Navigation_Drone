@@ -1,11 +1,19 @@
 # Project Progress Log
 
+## Week 4 (Mar 5 - Mar 16)
+
+- ✅ Fill the gap of *class* type
+- ✅ Completely write publisher and subsriber
+- ✅ Completely write service and client
+
+
 ## Week 3 (Feb 26 - Mar 5)
 
+- ✅ Move environment to VScode
 - ✅ Use colcon to build package
 - ✅ Creating a workspace
 - ✅ Creating a package
-- ✅ Writing a simple publisher and subscriber
+- ✅ Add a simple publisher and subscriber
 
 ## Week 2 (Feb 19 - Feb 26)
 - ✅ Complete USEL application form draft
