@@ -6,6 +6,7 @@
 - ✅ Completely write publisher and subsriber
 - ✅ Completely write service and client
 
+- [Write and Setup publisher](https://youtu.be/8meJKD2-VJQ)
 
 ## Week 3 (Feb 26 - Mar 5)
 
