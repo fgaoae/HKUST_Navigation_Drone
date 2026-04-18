@@ -1,5 +1,10 @@
 # Project Progress Log
 
+
+
+## Suspend from midterm (Mar 16 - April 18)
+
+
 ## Week 4 (Mar 5 - Mar 16)
 
 - ✅ Fill the gap of *class* type
