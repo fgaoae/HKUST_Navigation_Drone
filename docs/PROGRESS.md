@@ -1,8 +1,13 @@
 # Project Progress Log
 
+## Week 5 (Apr 19 - Mar 25)
+
+- ✅ Review ros2 node structure
+- ✅ Trying to independently write pubsub/action/service
+- ✅ Get a taste of OpenCV
 
 
-## Suspend from midterm (Mar 16 - April 18)
+## Suspend from midterm (Mar 16 - Apr 18)
 
 
 ## Week 4 (Mar 5 - Mar 16)
